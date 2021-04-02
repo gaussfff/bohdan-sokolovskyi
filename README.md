@@ -4,4 +4,4 @@ My name is Bohdan Sokolovskyi.
 - 💬 I am translator and backend developer
 - 📫 How to reach me: 
   * email: sokol.chemist@gmail.com
-  * linkedIn: [[https://www.linkedin.com/in/bohdan-sokolovskyi-400aa31a2/]]
+  * linkedIn: https://www.linkedin.com/in/bohdan-sokolovskyi-400aa31a2/
