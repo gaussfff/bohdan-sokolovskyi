@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is Bohdan Sokolovskyi.
-- 🌱 I’m currently learning Java, JavaScript (NodeJS), Common Lisp
+- 🌱 I’m currently learning Java, JavaScript, Common Lisp, Rust
 - 💬 I am translator and backend developer
 - 📫 How to reach me: 
   * email: sokol.chemist@gmail.com
