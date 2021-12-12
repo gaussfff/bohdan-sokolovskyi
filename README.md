@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is Bohdan Sokolovskyi.
-- 🌱 I’m currently learning Java, JavaScript, Common Lisp, LuaScript, Python, C/C++, Intel ASM x86
+- 🌱 I’m currently learning Java, JavaScript, Common Lisp, Lua, Python, C/C++, Intel ASM x86
 - 💬 I am translator and backend developer
 - 📫 How to reach me: 
   * email: sokol.chemist@gmail.com
