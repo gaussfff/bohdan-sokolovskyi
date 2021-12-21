@@ -5,6 +5,6 @@ My name is Bohdan Sokolovskyi.
 - 📫 How to reach me: 
   * email: sokol.chemist@gmail.com
   * linkedIn: https://www.linkedin.com/in/bohdan-sokolovskyi-400aa31a2/
-  * telegram: @bsokolovskyi
+  * telegram: @gauss_monad
 
 ![Lain](https://github.com/bohdan-sokolovskyi/bohdan-sokolovskyi/blob/master/Lain.gif)
