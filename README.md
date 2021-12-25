@@ -1,6 +1,6 @@
 ### Hi there 👋
-My name is Bohdan Sokolovskyi.
-- 🌱 I’m currently learning Java, JavaScript, Common Lisp
+My name is Bohdan Sokolovskyi. You may know me as `gauss`.
+- 🌱 I’m currently learning Java, JavaScript, Common Lisp, C/C++, Lua and ASM x86-64
 - 💬 I am translator and backend developer
 - 📫 How to reach me: 
   * email: sokol.chemist@gmail.com
