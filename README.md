@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is Lain Iwakura.
-- 🌱 I’m currently learning Java, JavaScript, Common Lisp, C/C++, Lua and ASM x86-64
+- 🌱 I’m currently learning Java, JavaScript, Common Lisp, C/C++, Lua
 - 💬 I am compiler and backend developer
 - 📫 How to reach me: 
   * email: lain.iwakura.gauss@gmail.com
