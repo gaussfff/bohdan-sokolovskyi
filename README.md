@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Lain Iwakura.
-- 🌱 I’m currently learning Java, JavaScript, Common Lisp, C/C++, Lua
-- 💬 I am compiler and backend developer
+- 🌱 I’m currently learning Java, Сommon Lisp, Clojure, Lua, Python
+- 💬 I am compiler developer, backend developer, data engineer
 - 📫 How to reach me: 
   * email: lain.iwakura.gauss@gmail.com
 
