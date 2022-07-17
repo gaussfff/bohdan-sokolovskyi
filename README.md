@@ -60,7 +60,7 @@ Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40" height="40" alt="anaconda"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="jupyter"/>
 </p>
-<p>Also: Clang, OpenJDK, GraalVM, ASDF, PIP, Leiningen</p>
+<p>Also: Clang, OpenJDK, GraalVM, ASDF, PIP, Leiningen, Postman, Draw.io, MongoDB Compass, pgAdmin</p>
 <br>
 
 <h2>📜 IDE</h2>
