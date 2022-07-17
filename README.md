@@ -88,7 +88,7 @@ Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif
 <a href="https://www.instagram.com/bohdan.sokolovskyi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="30" width="40" /></a>
 <br><br>
 
-<h2>ℹ️ Github Info</h2>
+<h2>ℹ️ GitHub Info</h2>
 <div align="center">
 <img src="http://github-readme-streak-stats.herokuapp.com?user=bohdan-sokolovskyi&theme=cobalt" alt="stat">
 <img src="https://github-readme-stats.vercel.app/api?username=bohdan-sokolovskyi&show_icons=true&theme=cobalt" alt="stat"/>
