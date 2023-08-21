@@ -80,13 +80,6 @@ Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif
 </p>
 <br>
 
-<h2>🌐 Links</h2>
-<p align="left">
-<a href="https://twitter.com/SokolovskiyB" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/bohdan-sokolovskyi-400aa31a2/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://www.instagram.com/bohdan.sokolovskyi/" target="blank"><img align="center" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" alt="instagram" height="30" width="40" /></a>
-<br><br>
-
 <h2>ℹ️ GitHub Info</h2>
 <div align="center">
 <img src="http://github-readme-streak-stats.herokuapp.com?user=bohdan-sokolovskyi&theme=cobalt" alt="stat">
