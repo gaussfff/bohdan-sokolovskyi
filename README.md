@@ -2,7 +2,7 @@
 Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="hello">. I'm Bohdan Sokolovskyi from Ukraine 🇺🇦 
 </h1>
 
-<h3 align="center"> Data engineering 📊 | Compiler development 🛠 | Web development 🌐 </h3>
+<h3 align="center"> Data engineering 📊 | Compiler development 🛠 | Web development 🌐 | Game development 🎮 </h3>
 
 <div align="center"><img src="https://github.com/bohdan-sokolovskyi/bohdan-sokolovskyi/blob/master/Lain.gif" alt="lain"></div>
 
