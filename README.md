@@ -1,94 +1,105 @@
-<h1 align="center">
-Hello there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="hello">. I'm Bohdan Sokolovskyi from Ukraine 🇺🇦 
+<style>
+    #lain-gif {
+        height: 200px;
+        align: center;
+    }
+
+    .container {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    .sub-container {
+        flex: 1;
+        padding: 15px;
+    }
+
+    #description {
+        text-align: justify;
+    }
+
+    .table {
+        width: 100%;
+        table-layout: fixed;
+        border-collapse: collapse;
+    }
+
+    .table th, .table td {
+        border: 1px solid black;
+        text-align: left;
+        padding: 8px;
+    }
+
+    .table th {
+        background-color: #f2f2f2;
+    }
+
+    .icon { 
+        width: 16px;
+        height: 16px;
+    }
+
+    .link-icon {
+        width: 32px;
+        height: 32px;
+    }
+</style>
+
+<h1 align="left">
+Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="hello"> 
 </h1>
 
-<h3 align="center"> Data engineering 📊 | Compiler development 🛠 | Web development 🌐 | Game development 🎮 </h3>
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&author="Lain%20Iwakura"&quote=No%20matter%20where%20you%20go,%20everyone%20is%20connected.)]()
 
-<div align="center"><img src="https://github.com/bohdan-sokolovskyi/bohdan-sokolovskyi/blob/master/Lain.gif" alt="lain"></div>
-
-<h2>🖋 Languages (programming, markup and other)</h2>
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="java"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" width="40" height="40" alt="lua"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg" width="40" height="40" alt="clojure"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="c"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="javascript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="40" height="40" alt="ruby"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="bash"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40" height="40" alt="markdown"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="html"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="css"/>
-
-</p>
-<p> Also: COBOL and Common Lisp 🌚🌚🌚
-<br><br>
-
-<h2>🏭 Frameworks</h2>
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="spring"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40" alt="vuejs"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" height="40" alt="apache"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="express"/>
-</p>
-<p> Also: Hebirnate, JDBC, Lisp Alexandria, Lisp UIOP, Lisp ASDF, CL-PPCRE, CL-GRAPH, YASON, CL-FAD, ANAPHORA, LISP-UNIT, JUNIT, Log4j, Spark</p>
-<br>
-
-<h2>🛠 Tools</h2>
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="doker"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="postgresql"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="mongodb"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" width="40" height="40" alt="filezilla"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg" width="40" height="40" alt="msdos"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40" alt="npm"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" width="40" height="40" alt="ssh"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" width="40" height="40" alt="tomcat"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" width="40" height="40" alt="circleci"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" alt="aws"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" width="40" height="40" alt="gradle"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" height="40" alt="apache"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="40" height="40" alt="chrome"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/safari/safari-original.svg" width="40" height="40" alt="safari"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" width="40" height="40" alt="firefox"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" width="40" height="40" alt="cmake"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" width="40" height="40" alt="jetbrains"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="nodejs"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" width="40" height="40" alt="gcc"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40" height="40" alt="anaconda"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="jupyter"/>
-</p>
-<p>Also: Clang, OpenJDK, GraalVM, ASDF, PIP, Leiningen, Postman, Draw.io, MongoDB Compass, pgAdmin, SBCL, SLIME</p>
-<br>
-
-<h2>📜 IDE</h2>
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40" alt="intelij"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="vscode" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="40" height="40" alt="vim" />
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/emacs/emacs.png" width="40" height="40" alt="emacs"/>
-</p>
-<br>
-
-<h2>💾 OS</h2>
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="40" height="40" alt="macos"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="linux"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40" alt="windows"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" width="40" height="40" alt="unix"/>
-</p>
-<br>
-
-<h2>ℹ️ GitHub Info</h2>
-<div align="center">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=bohdan-sokolovskyi&theme=cobalt" alt="stat">
-<img src="https://github-readme-stats.vercel.app/api?username=bohdan-sokolovskyi&show_icons=true&theme=cobalt" alt="stat"/>
-<br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bohdan-sokolovskyi&layout=compact&theme=cobalt" alt="stat"/>
-<br><br>
-<img src="https://github-profile-trophy.vercel.app/?username=bohdan-sokolovskyi&theme=radical&row=1&column=7" alt="stat"/>
+<div class="container">
+    <div class="sub-container">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczJvYnU5a2d4Nzk0eWZ6bmRwM2F2Y2xtN3ZucXZqdDYwOXZ6OWJ4eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/udK21RQeWtaGQ/giphy.gif" alt="lain">
+    </div>
+    <div class="sub-container" id="description">
+        My name is Bohdan Sokolovskyi. I'm programming enthusiast wields an impressive arsenal of programming languages and technolygies from Ukraine 🇺🇦. When I'm not immersed in code, I'm likely to be found at the gym, or indulging in a more serene passion for exploring the vast world of teas and coffees, balancing their love for technology with physical wellness and the simple pleasures of life.
+    </div>
 </div>
 
+<table class="table">
+  <thead>
+    <tr>
+      <th>Programming languages</th>
+      <th>Specializations</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Common Lisp</td>
+      <td>Compiler development 📊</td>
+    </tr>
+    <tr>
+      <td>Clojure <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clojure/clojure-original.svg" alt=""/></td>
+      <td>Web development 🛠</td>
+    </tr>
+    <tr>
+      <td>Java <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt=""/></td>
+      <td>Data engineering 🌐</td>
+    </tr>
+    <tr>
+      <td>Rust <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt=""/></td>
+      <td>Blockchain development 🔒💵</td>
+    </tr>
+  </tbody>
+</table>
 
+<div class="container">
+    <div class="sub-container">
+        <img src="https://github-readme-stats.vercel.app/api?username=gaussfff&show_icons=true&theme=cobalt">
+    </div>
+    <div class="sub-conatiner">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaussfff&layout=compact&theme=cobalt" alt="stat"/>
+    </div>
+</div>
 
+<br>
+<div align="center">
+    <a href="https://www.instagram.com/b.sokol.xyz/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/bohdan-sokolovskyi-400aa31a2/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://discord.com/users/334108202985848833"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
+</div>
