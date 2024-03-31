@@ -7,7 +7,7 @@
 </div>-->
 
 <picture>
-    <img align="right" width="30%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczJvYnU5a2d4Nzk0eWZ6bmRwM2F2Y2xtN3ZucXZqdDYwOXZ6OWJ4eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/udK21RQeWtaGQ/giphy.gif" alt="lain">
+    <img align="right" width="30%" src="https://media.giphy.com/media/Wn74RUT0vjnoU98Hnt/giphy.gif?cid=ecf05e47c8yq6aez8fgq545l8hwvk5g7u1lpp77f4ta5ys6j&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="lain">
 </picture>
 
 <br>
