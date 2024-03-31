@@ -10,7 +10,9 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 
 <br>
 <div align="center">
-My name is Bohdan Sokolovskyi. I'm programming enthusiast and software developer wields an impressive arsenal of programming languages and technolygies from Ukraine 🇺🇦. When I'm not immersed in code, I'm likely to be found at the gym, or indulging in a more serene passion for exploring the vast world of teas and coffees, balancing their love for technology with physical wellness and the simple pleasures of life.
+
+**My name is Bohdan Sokolovskyi. I'm programming enthusiast and software developer wields an impressive arsenal of programming languages and technolygies from Ukraine 🇺🇦. When I'm not immersed in code, I'm likely to be found at the gym, or indulging in a more serene passion for exploring the vast world of teas and coffees, balancing their love for technology with physical wellness and the simple pleasures of life.**
+
 </div>
 <br><br>
 
@@ -22,9 +24,9 @@ My name is Bohdan Sokolovskyi. I'm programming enthusiast and software developer
 | Programmin languages  | Specializations |
 | ------------- | ------------- |
 | Common Lisp  | Compiler development 🛠 |
-| Clojure <img width="16" height="16" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clojure/clojure-original.svg" alt=""/>  | Web development 🌐 |
-| Java <img width="16" height="16" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt=""/>  | Data engineering 📊 |
-| Rust <img width="16" height="16" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt=""/>  | Blockchain development 🔒💵 |
+| Clojure <img width="20" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clojure/clojure-original.svg" alt=""/>  | Web development 🌐 |
+| Java <img width="20" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt=""/>  | Data engineering 📊 |
+| Rust <img width="20" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt=""/>  | Blockchain development 🔒💵 |
 
 </div>
 
