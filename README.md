@@ -1,6 +1,6 @@
 <img src="https://github.com/gaussfff/gaussfff/blob/master/header.png" alt="Hi there!">
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&author="Lain%20Iwakura"&quote=No%20matter%20where%20you%20go,%20everyone%20is%20connected.)]()
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&author="Lain%20Iwakura"&quote=No%20matter%20where%20you%20go,%20everyone%20is%20connected.)]()
 
 <div style="flex:1;padding:15px;" align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczJvYnU5a2d4Nzk0eWZ6bmRwM2F2Y2xtN3ZucXZqdDYwOXZ6OWJ4eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/udK21RQeWtaGQ/giphy.gif" alt="lain">
@@ -9,7 +9,7 @@
 <br>
 <div align="center">
 
-**My name is Bohdan Sokolovskyi. I'm programming enthusiast and software developer wields an impressive arsenal of programming languages and technolygies from Ukraine 🇺🇦. When I'm not immersed in code, I'm likely to be found at the gym, or indulging in a more serene passion for exploring the vast world of teas and coffees, balancing their love for technology with physical wellness and the simple pleasures of life.**
+**I'm programming enthusiast and software developer wields an impressive arsenal of programming languages and technolygies. When I'm not immersed in code, I'm likely to be found at the gym, or indulging in a more serene passion for exploring the vast world of teas and coffees, balancing their love for technology with physical wellness and the simple pleasures of life.**
 
 </div>
 <br><br>
