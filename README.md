@@ -1,6 +1,4 @@
-<h1 align="left">
-Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="hello"> 
-</h1>
+<img src="https://github.com/gaussfff/gaussfff/blob/master/header.png" alt="Hi there!">
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&author="Lain%20Iwakura"&quote=No%20matter%20where%20you%20go,%20everyone%20is%20connected.)]()
 
