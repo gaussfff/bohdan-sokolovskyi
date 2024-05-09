@@ -25,7 +25,6 @@
 | Common Lisp  | Compiler development 🛠 |
 | Java <img width="20" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt=""/>  | Web development 🌐 |
 | Clojure <img width="20" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clojure/clojure-original.svg" alt=""/>   | Data engineering 📊 |
-| Rust <img width="20" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt=""/>  | Blockchain development 🔒💵 |
 
 </div>
 
